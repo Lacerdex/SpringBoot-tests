@@ -6,7 +6,7 @@ Espaço para praticar conceitos, testar funcionalidades e explorar recursos do S
 
 # 🛠️ Tecnologias
 ` 1. Java
-  2. Spring Boot
+  \n2. Spring Boot
   3. Maven/Gradle
   4. VS Code `
 
